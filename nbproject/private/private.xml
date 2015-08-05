@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ubitica-01/NetBeansProjects/ShoppingCartApp/test/shoppingcart/ShoppingCartAppTest.java</file>
+            <file>file:/home/ubitica-01/NetBeansProjects/ShoppingCartApp/test/shoppingcart/NoOffer.java</file>
+            <file>file:/home/ubitica-01/NetBeansProjects/ShoppingCartApp/test/shoppingcart/IOffer.java</file>
+            <file>file:/home/ubitica-01/NetBeansProjects/ShoppingCartApp/test/shoppingcart/ShoppingCart.java</file>
+            <file>file:/home/ubitica-01/NetBeansProjects/ShoppingCartApp/test/shoppingcart/Product.java</file>
+            <file>file:/home/ubitica-01/NetBeansProjects/ShoppingCartApp/test/shoppingcart/DiscountOnNextItemOffer.java</file>
+            <file>file:/home/ubitica-01/NetBeansProjects/ShoppingCartApp/test/shoppingcart/BuyXItemGetYItemFreeOffer.java</file>
+        </group>
+    </open-files>
+</project-private>
