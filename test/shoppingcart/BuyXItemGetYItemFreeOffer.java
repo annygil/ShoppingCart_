@@ -7,7 +7,7 @@ package shoppingcart;
 
 /**
  *
- * @author ubitica-01
+ * @author Anny Gil -ubitica-01
  */
 public class BuyXItemGetYItemFreeOffer implements IOffer {
  
